@@ -1,11 +1,11 @@
 # European Championship in Trustworthy AI - CISPA Hackathon
 
 Team: Loki  
-Members: Alexandre Ansart, Bastian Paoli, Florian Dougnon-Greder, Melissa Abider  
+Members: Melissa Abider, Alexandre Ansart, Bastian Paoli, Florian Dougnon-Greder
 Rank: 2nd Place out of 16 Teams  
-Prize: 400 euros and qualification for the European Finals in Germany (July 2025)  
+Prize: 400 euros and qualification for the European Finals in Germany (July 2026)  
 Location: La Grande Arche, La Defense, Paris  
-Date: November 2024
+Date: November 2025
 
 ## Overview
 
